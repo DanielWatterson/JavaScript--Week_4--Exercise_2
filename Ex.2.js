@@ -16,8 +16,8 @@ sum = function(num) {
     }
 }
 
-console.log(sum(5)); // This value is a number, so it will return true
-console.log(sum("hello")); // This value is not a number, so it will return an error message.
+console.log(sum(5)); // This value is a number = true message
+console.log(sum("hello")); // This value is not a number = error message
 console.log("----------------------------------------------------------------------------------- \n")
 
 console.log("---- This output is of a function that returns the factorial ----");
